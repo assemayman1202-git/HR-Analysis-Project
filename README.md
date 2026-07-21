@@ -89,7 +89,7 @@ The dashboard spans **5 pages** — Employees, Attrition, Salary, Satisfaction, 
 
 ### Page 1 — Employees Overview
 
-![Employees Page](HR%20employees.png)
+![HR employees Page](HR%20employees.png) 
 
 **KPIs:** Total Employees (1.472K) · Left Employees (237 — 16.10%) · Stayed Employees (1.472K — 83.90%) · Average Age (37)
 
